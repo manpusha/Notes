@@ -12,11 +12,7 @@ public class  HelloWorld{
 }
 
 ```
-
-
-
-
 ![enter description here][1]
 
 
-  [1]: https://www.github.com/manpusha/githubimg/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1499066505200.jpg
+  [1]: https://www.github.com/manpusha/githubimg/raw/master/images/1499067463013.jpg
