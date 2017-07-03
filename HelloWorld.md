@@ -14,7 +14,7 @@ public class HelloWorldDemo{
 	}
 }
 ```
+![enter description here][1]
 
-![运行效果][1]
 
-  [1]: https://www.github.com/manpusha/githubimg/raw/master/images/1499068484198.jpg
+  [1]: https://www.github.com/manpusha/githubimg/raw/master/images/1499069046098.jpg
