@@ -42,7 +42,8 @@ Java SE基础工具包：[官网下载](http://www.oracle.com/technetwork/java/j
 ![enter description here][10]
 ![enter description here][11]
 如果你看到这样的效果，恭喜你配置成功了。
-##6.注意事项
+
+## 5.注意事项
 `如果使用1.5以上版本的JDK，不用设置CLASSPATH环境变量，也可以正常编译和运行Java程序。`
 
 
